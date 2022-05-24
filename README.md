@@ -7,4 +7,4 @@ Proyecto trabajado en platzi.
  Display.
  Grillas.
 
-https://polyxein.github.io/Platzi-blog-Xein/index.html
+https://polyxein.github.io/blog-website/index.html
